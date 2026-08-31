@@ -1,5 +1,5 @@
 // Troque pelo número real, formato: 55 + DDD + número
-var TELEFONE = '5562996703535';
+var TELEFONE = '557520180152';
 
 var formEl = document.getElementById('form');
 if (formEl) {
